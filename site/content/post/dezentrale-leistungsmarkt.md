@@ -2,7 +2,7 @@
 title: Dezentraler Leistungsmarkt
 date: 2018-10-28T09:18:03.440Z
 description: >-
-  Nutzung eines Kapazitätsmarktes in den Corrently Stromtarif en für private
+  Nutzung eines Kapazitätsmarktes in den Corrently Stromtarifen für private
   Stromkunden.
 ---
 ## Dezentraler Leistungsmarkt dank Blockchain in Stromtarifen. 
