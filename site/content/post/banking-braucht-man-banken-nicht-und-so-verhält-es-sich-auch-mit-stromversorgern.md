@@ -5,7 +5,7 @@ title: >-
 date: 2018-10-31T14:46:15.868Z
 description: >-
   Heute vor 10 Jahren erschien das Bitcoin-Whitepaper. Ein 8-seitiges Papier
-  dessen Grundlagen es heute in den Mainstream geschafft haben. Jeder redet übre
+  dessen Grundlagen es heute in den Mainstream geschafft haben. Jeder redet über
   Kryptowährungen, den Bitcoin. Doch warum? Die Gründe sind vielfältig, doch
   gerade auf institutioneller Ebene (also bei Banken, Börsen und Versicherungen)
   ist es oftmals die Angst - die Angst vor der Emanzipation ihrer bisherigen
