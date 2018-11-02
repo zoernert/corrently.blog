@@ -1,6 +1,6 @@
 ---
 title: Corrently
-subtitle: Decentralized Capacity Market
+subtitle: Der Stromtarif, der Dir Dein Kraftwerk baut
 image: /img/products-full-width.jpg
 blurb:
   heading: 'Why Corrently? '
@@ -21,4 +21,3 @@ values:
     want to turn this around and return the coffee trade to the drink’s
     exhilarating, empowering and unifying nature.
 ---
-
