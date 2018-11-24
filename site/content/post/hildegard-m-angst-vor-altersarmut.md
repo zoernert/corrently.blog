@@ -7,13 +7,13 @@ description: >-
   die 62 Jährige sorgen um Altersarmut. 
 image: /img/hildegard.jpg
 ---
-Einer der ersten waren sie damals in ihrer Nachbarschaft, die sich eine Solar-Anlage auf das Dach montierten. Die beiden Kinder waren gerade in der Pupertät und es war absehbar,dass diese irgendwann ausziehen werden. Es war die Zeit, als man Nachhaltigkeit noch nicht in jeder zweiten Medienmeldung lesen musste, und Energiewende noch nicht so das Politikum war. Eine sorglose Entscheidung war es damals, erinnert sich Hildegard heute.
+Einer der ersten waren sie damals in ihrer Nachbarschaft, die sich eine Solar-Anlage auf das Dach montierten. Die beiden Kinder waren gerade in der Pupertät und es war absehbar,dass diese irgendwann ausziehen werden. Es war die Zeit, als man Nachhaltigkeit noch nicht in jeder zweiten Medienmeldung lesen musste, und Energiewende noch nicht so das große Politikum war. Eine sorglose Entscheidung war es damals, erinnert sich Hildegard heute.
 
-Die Kinder sind aus dem Haus. Jürgen, der Mann von Hildegard wird in zwei Jahren in Rente gehen. Die Perspektive hat sich geändert und die Entscheidung für die Photovoltaikanlage wird zunehmend zum Problem.
+Die Kinder sind aus dem Haus. Jürgen, der Mann von Hildegard, wird in zwei Jahren in Rente gehen. Die Perspektive hat sich geändert und die Entscheidung für die Photovoltaikanlage wird zunehmend zum Problem.
 
 > "Im Jahre 2025 werden wir uns umsehen, denn 200€ weniger im Monat sind dann richtig Geld.", meint Hildegard M. "Dennoch bereue ich keine Minute damals die PV-Anlage montiert zu haben".
 
-In der Haushaltskasse haben die Nebenkosten und besonders die Energiekosten bislang eine untergeordnete Rolle gespielt. Die 200€, die der Netzbetreiber jeden Monat als Entschädigung für die erzeugten Strommengen überwiesen hat, haben so manchen Theaterbesuch ermöglicht. 
+In der Haushaltskasse haben die Nebenkosten - und besonders die Energiekosten - bislang eine untergeordnete Rolle gespielt. Die 200€, die der Netzbetreiber jeden Monat als Entschädigung für die erzeugten Strommengen überwiesen hat, haben so manchen Theaterbesuch ermöglicht. 
 
 Im Dezember 2025 werden diese Zahlungen eingestellt werden. Gerne würde sich die Familie bereits heute darauf vorbereiten, aber die Expertenwelt scheint ratlos zu sein. 
 
