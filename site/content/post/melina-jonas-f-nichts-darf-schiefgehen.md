@@ -15,6 +15,6 @@ Für Kauf und Installation hatte das Paar ihren Baukredit um 25.000€ aufgestoc
 
 Als vor wenigen Wochen die eigentliche sinnvolle Entscheidung anstand, den alten, reparturbedürftigen Diesel gegen ein neues Auto zu tauschen bekam der Sonnenstrom vom Dach einen dunklen Schatten.
 
-> "Durch die hohen monatlichen Belastungen, bekommen keine weiteren Finanzierungen. Als normaler Stromkunde könnten wir mit Sparsamkeit und einschränken - beim Dachstrom nicht." erklärt Jonas und führt fort. "Größere Dinge dürfen bei uns nicht schiefgehen. Wir sind schlicht nicht mehr kreditwürdig".
+> "Durch die hohen monatlichen Belastungen, bekommen wir keine weiteren Finanzierungen. Als normaler Stromkunde könnten wir mit sparsam sein - beim Dachstrom nicht." erklärt Jonas und führt fort. "Größere Dinge dürfen bei uns nicht schiefgehen. Wir sind schlicht nicht mehr kreditwürdig".
 
-Es gibt viele Familien, denen es ähnlich geht wie Melina und Jonas. Mit dem bau des Eigenheims geht in den ersten Jahren die Möglichkeit verloren auf neue Herausforderungen zu reagieren. Da Bank, Solateur und Bauunternehmen alle bereits ihr Geld verdient haben, müssen Familie sich selbst helfen. Produkte am Markt, wie [Corrently](https://corrently.de/) lösen das Problem aus Sicht des Kunden und sind mehr als "billiger Strom".
+Es gibt viele Familien, denen es ähnlich geht wie Melina und Jonas. Mit dem Bau des Eigenheims geht in den ersten Jahren die Möglichkeit verloren auf neue Herausforderungen zu reagieren. Da Bank, Solateur und Bauunternehmen alle bereits ihr Geld verdient haben, müssen Familie sich selbst helfen. Produkte am Markt, wie [Corrently](https://corrently.de/) lösen das Problem aus Sicht des Kunden und sind mehr als "billiger Strom".
