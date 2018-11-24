@@ -7,7 +7,7 @@ description: >-
   wie stark sie ihre Freiheit verloren haben.
 image: /img/melina_und_jonas.jpg
 ---
-Es ist eine Lebensplanung wie aus dem Buche. Nach dem Studium der erste feste Job, es war die richtige Zeit um mit Nestbau zu beginnen. Eine Photovoltaikanlage auf dem Dach, ein Speicher im Keller war nicht nur "günstig" beim Bau gleich zu mitzufinanzieren, sondern sollte auch unabhängiger machen vom Stromversorger.
+Es ist eine Lebensplanung wie aus dem Buche. Nach dem Studium der erste feste Job, es war die richtige Zeit um mit Nestbau zu beginnen. Eine Photovoltaikanlage auf dem Dach, ein Speicher im Keller war nicht nur "günstig" beim Bau gleich mitzufinanzieren, sondern sollte auch unabhängiger machen vom Stromversorger.
 
 > "Begriffe wie Eigenstrom und Autarkie klangen damals genau wie unser Ding", erinnert sich Melina und Jonas ergänzt "wir wollten mit Sonnenstrom vom eigenen Dach aber auch die richtige Entscheidung treffen".
 
