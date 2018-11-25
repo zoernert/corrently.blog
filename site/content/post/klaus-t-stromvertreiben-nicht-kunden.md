@@ -1,5 +1,5 @@
 ---
-title: Klaus T. - Stromvertreiben nicht Kunden
+title: Klaus T. - Strom vertreiben nicht Kunden
 date: 2018-11-25T10:03:41.650Z
 description: >-
   Seinen Stromkunden vertrauen Klaus T., wodurch er sich ein großes Netzwerk
