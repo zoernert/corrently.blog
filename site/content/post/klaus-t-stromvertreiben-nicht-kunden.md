@@ -2,7 +2,7 @@
 title: Klaus T. - Stromvertreiben nicht Kunden
 date: 2018-11-25T10:03:41.650Z
 description: >-
-  Seien Stromkunden vertrauen Klaus T., wodurch er sich ein großes Netzwerk
+  Seinen Stromkunden vertrauen Klaus T., wodurch er sich ein großes Netzwerk
   aufbauen konnte und er letztendlich vor 4 Jahren die Leitung des
   Stromvertriebs der Stadtwerke übernommen hat. Die Rezession hat aber begonnen,
   da das Produkt "Strom" immer mehr dem Zweck dient Vergleichsportale glücklich
