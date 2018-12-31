@@ -8,7 +8,7 @@ image: /img/variabler_stromtarif.jpg
 ---
 Lange Zeit war es in Deutschland [nur den Gewerbekunden vorbehalten](https://www.solarautonomie.de/zeitvariable-stromtarife/),  in die Vorzüge eines variablen Stromtarif zu bekommen. Private Stromkunden, mussten selbst dann tief in die Tasche greifen, wenn ein Überangebot an Sonne- und Windkraft dafür sorgte, dass sogar an der Strombörse in negativer Strompreis entstand. 
 
-Mit einem [Corrently-Tarif](https://app.corrently.de/tarif) können auch private Stromkunden die Vorteile der Stromerzeugung ohne Brennstoffkosten genießen. Im Tarif vereinbart ist der maximale Strompreis, der je Kilo-Watt-Stunde zu zahlen ist. Im Vergleich zu anderen Stromtarifen liegt dieser bereits im günstigeren Mittelfeld. Ist der Anteil an Strom aus Erneuerbaren Energiequellen besonders hoch, dann wird dieser Strompreis weiter reduziert. 
+Mit einem [Corrently-Tarif](https://stromtarif.shop/) können auch private Stromkunden die Vorteile der Stromerzeugung ohne Brennstoffkosten genießen. Im Tarif vereinbart ist der maximale Strompreis, der je Kilo-Watt-Stunde zu zahlen ist. Im Vergleich zu anderen Stromtarifen liegt dieser bereits im günstigeren Mittelfeld. Ist der Anteil an Strom aus Erneuerbaren Energiequellen besonders hoch, dann wird dieser Strompreis weiter reduziert. 
 
 ## Kombination von Intelligentem Stromzähler und Smart-Home
 
