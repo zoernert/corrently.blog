@@ -1,5 +1,5 @@
 ---
-title: Kohleausstieg mit Blockchain und Stromprodukt selbst organisieren
+title: Kohleausstieg mit Blockchain und Stromprodukt selbst organisieren!
 date: 2019-01-26T12:09:24.784Z
 description: >-
   Die Stromversorgung in Deutschland soll noch viele Jahre von der Verbrennung
@@ -8,7 +8,7 @@ description: >-
   Stromrechnungen von jedem teuer machen. Genau das muss nicht sein...
 image: /img/coal-fired-power-plant-499908_1280.jpg
 ---
-Abseits von Klimaschutz und Ideologie ist die Kohleverstromung in einem Industrieland wie Deutschland rein aus wirtschaftlichen Gründen ein Auslaufmodell. Der Nachteil bei einer regulierten Umverteilung von großen Geldmengen ist, dass diese nicht dort ankommen, wo sie gewünscht sind. Geldströme, wie sie aus der Quelle der Stromzahler kommen, haben Verlustmengen in Verwaltung, Managergehältern und natürlich auch Renditeerwartungen der Investoren. Kein Wunder, dass eine Kohlekommission an Bürger und Wirtschaft vorbei entscheidet. Zukunftsfähig geht anders! 
+Abseits von Klimaschutz und Ideologie ist die Kohleverstromung in einem Industrieland wie Deutschland rein aus wirtschaftlichen Gründen ein Auslaufmodell. Der Nachteil bei einer regulierten Umverteilung von großen Geldmengen ist, dass diese nicht dort ankommen, wo sie gewünscht sind. Geldströme, wie sie aus der Quelle der Stromzahler kommen, haben Verlustmengen in Verwaltung, Managergehältern und natürlich auch Renditeerwartungen der Investoren. Kein Wunder, dass eine Kohlekommission an Bürger und Wirtschaft [vorbei entscheidet](https://www.tagesschau.de/wirtschaft/kohlekommission-133.html). Zukunftsfähig [geht anders](https://blog.stromhaltig.de/2015/04/oeffentliches-memorandum-braunkohle/)! 
 
 Es wird Zeit, die Umverteilung  neutral zu organisieren und hier kann die [Energy-Blockchain](https://www.corrently.de/integration/blockchain/index.html) ein nützliches Werkzeug sein. Abseits von Kommissionen schafft eine Technologie das wichtigste Gut zu diskriminierungsfrei _"automatisieren"_ : **Vertrauen**.
 
