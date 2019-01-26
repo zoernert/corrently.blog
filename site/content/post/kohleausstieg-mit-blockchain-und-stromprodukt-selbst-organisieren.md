@@ -8,7 +8,7 @@ description: >-
   Stromrechnungen von jedem teuer machen. Genau das muss nicht sein...
 image: /img/coal-fired-power-plant-499908_1280.jpg
 ---
-Abseits von Klimaschutz und Ideologie ist die Kohleverstromung in einem Industrieland wie Deutschland rein aus wirtschaftlichen Gründen ein Auslaufmodell. Der Nachteil bei einer regulierten Umverteilung von großen Geldmengen ist, dass diese nicht dort ankommen, wo sie gewünscht sind. Geldströme, wie sie aus der Quelle der Stromzahler kommen, haben Verlustmengen in Verwaltung, Managergehältern und natürlich auch Renditeerwartungen der Investoren. Kein Wunder, dass eine Kohlekommission am Bürger vorbei entscheidet. 
+Abseits von Klimaschutz und Ideologie ist die Kohleverstromung in einem Industrieland wie Deutschland rein aus wirtschaftlichen Gründen ein Auslaufmodell. Der Nachteil bei einer regulierten Umverteilung von großen Geldmengen ist, dass diese nicht dort ankommen, wo sie gewünscht sind. Geldströme, wie sie aus der Quelle der Stromzahler kommen, haben Verlustmengen in Verwaltung, Managergehältern und natürlich auch Renditeerwartungen der Investoren. Kein Wunder, dass eine Kohlekommission an Bürger und Wirtschaft vorbei entscheidet. 
 
 Es wird Zeit, die Umverteilung anders zu organisieren und hier kann die [Energy-Blockchain](https://www.corrently.de/integration/blockchain/index.html) ein nützliches Instrument sein. Abseits von Kommissionen schafft eine Technologie das wichtigste Gut zu _"automatisieren"_ : Vertrauen.
 
