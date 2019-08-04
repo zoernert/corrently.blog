@@ -1,6 +1,6 @@
 ---
 title: Corrently
-subtitle: Der Stromtarif, der Dir Dein Kraftwerk baut
+subtitle: und Ökostrom wird nachhaltig
 image: /img/products-full-width.jpg
 blurb:
   heading: 'Why Corrently? '
