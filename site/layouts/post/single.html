@@ -10,35 +10,6 @@
       <p>{{ .Description }}</p>
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
       {{ .Content }}
-    </div>
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://corrently.blog/post/"
-      },
-      "headline": "{{.Title}}",
-      "image": [
-        "{{ .Params.image }}"
-       ],
-      "datePublished": "{{ .Date.Format '2015-02-05T08:00:00+08:00' }}",
-      "dateModified": "{{ .Date.Format '2015-02-05T08:00:00+08:00' }}",
-      "author": {
-        "@type": "Person",
-        "name": "Rebekka Hadeler"
-      },
-       "publisher": {
-        "@type": "Organization",
-        "name": "Corrently / STROMDAO GmbH",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://stromdao.de/wp-content/uploads/2019/08/Corrently-Logo.png"
-        }
-      },
-      "description": "{{ .Description }}"
-    }
-    </script>
+    </div>  
   </div>
 {{ end }}
