@@ -24,11 +24,7 @@ Versorger wie die Mannheimer MVV haben in den letzten Jahren selbst Angebote fü
 >
 >  
 >
-> (
->
-> [Sciencefiles](https://sciencefiles.org/2019/09/03/solarenergie-umweltschadlich-ineffizient-sozial-ungerecht/)
->
-> )
+> ( [Sciencefiles](https://sciencefiles.org/2019/09/03/solarenergie-umweltschadlich-ineffizient-sozial-ungerecht/) )
 
 Gibt man die Suche nach einem Geschäftsmodell für die Zeit nach dem EEG auf, dann ist die logische Konsequenz, dass man gerade den ersten Anlagen der Energiewende jeglichen Wert abspricht. Mit Nachhaltigkeit hat dies wenig am Hut.
 
