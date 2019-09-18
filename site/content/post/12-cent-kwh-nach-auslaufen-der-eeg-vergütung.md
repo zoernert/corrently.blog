@@ -10,22 +10,13 @@ description: >-
 image: /img/fakten_auslaufen_eeg.png
 ---
 
-
-D
-
-
-
-
-
-
-
 ## Den Rückbau herbeireden...
 
 > _Anders als im 20-jährigen Förderzeitraum kann der Betreiber der Photovoltaikanlage in dem Fall nur den auf dem Strommarkt zu erzielenden Erlös einstreichen_. ([MVV Partner Blog](https://partner.mvv.de/blog/photovoltaikanlagen-ende-eeg-foerderung))
 
-Es ist nicht sonderlich verwunderlich, dass gerade die mittelgroßen Versorger ein Folgegeschäft generieren wollen. Vor 20 Jahren hatte man auch schon versucht mit Netzentgelten und Gebühren die Pioniere der Energiewende zur Kasse zu bitten. 
+Es ist nicht sonderlich verwunderlich, dass gerade die mittelgroßen Versorger ein Folgegeschäft generieren wollen. Vor 20 Jahren hatte man auch schon versucht mit Netzentgelten und Gebühren die Pioniere der Energiewende zur Kasse zu bitten.
 
-Versorger wie die Mannheimer MVV haben in den letzten Jahren selbst Angebote für Photovoltaikanlagen und Heimspeicher geschaffen und mussten im Zuge dieses Angebotes ein Netzwerk von Dienstleistern aufbauen, die beim Kunden die Montage vornehmen. Es ist klar, dass man diesen Partnern nun auch ein Geschäft mit Umbauten vermitteln möchte. Tatsächlich besteht die größere Gefahr jedoch darin, dass Kunden eher der Aussage glauben, dass es unrentabel ist die Altanlagen weiterzubetreiben. 
+Versorger wie die Mannheimer MVV haben in den letzten Jahren selbst Angebote für Photovoltaikanlagen und Heimspeicher geschaffen und mussten im Zuge dieses Angebotes ein Netzwerk von Dienstleistern aufbauen, die beim Kunden die Montage vornehmen. Es ist klar, dass man diesen Partnern nun auch ein Geschäft mit Umbauten vermitteln möchte. Tatsächlich besteht die größere Gefahr jedoch darin, dass Kunden eher der Aussage glauben, dass es unrentabel ist die Altanlagen weiterzubetreiben.
 
 ## Der Energiewende die Nachhaltigkeit bewahren
 
@@ -39,7 +30,7 @@ Versorger wie die Mannheimer MVV haben in den letzten Jahren selbst Angebote fü
 >
 > )
 
-Gibt man die Suche nach einem Geschäftsmodell für die Zeit nach dem EEG auf, dann ist die logische Konsequenz, dass man gerade den ersten Anlagen der Energiewende jeglichen Wert abspricht. Mit Nachhaltigkeit hat dies wenig am Hut. 
+Gibt man die Suche nach einem Geschäftsmodell für die Zeit nach dem EEG auf, dann ist die logische Konsequenz, dass man gerade den ersten Anlagen der Energiewende jeglichen Wert abspricht. Mit Nachhaltigkeit hat dies wenig am Hut.
 
 ## Mit welcher Zukunft wollen wir leben?
 
