@@ -1,5 +1,5 @@
 ---
-title: 'Stromkonto zeigt, woher der Strom Grünstrom kommt'
+title: 'Stromkonto zeigt, woher der Grünstrom an dunlen Tagen kommt'
 date: 2019-10-12T00:09:40.949Z
 description: >-
   Jetzt im Herbst wird es deutlich, dass die Sonne nicht immer scheint. Da mein
