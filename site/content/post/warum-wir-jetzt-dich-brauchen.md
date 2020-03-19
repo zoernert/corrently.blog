@@ -14,7 +14,7 @@ Der 3-Jahresplan der **STROM**DAO hatte vorgesehen, dass wir im März/April 2020
 
 Seit Anfang dieser Woche arbeitet nun das gesamte Team nur noch für das Endkundengeschäft, da Abnahmetermine verschoben und Projekte pausiert oder extrem verlangsamt wurden. Bei Lichte betrachtet müssen wir mit Umsatz aus dem B2B Geschäft von einer roten Null (durch Zahlungsausfälle) rechnen. Aufgefangen wird dies aktuell nur durch eine rigorose Anpassung der Prioritäten. **Volldampf den privaten Stromkunden und Gewerbekunden jetzt Mehrwert bieten!**
 
-Die **STROM**DAO ist ein "[Ehrenamtsfreundlicher Arbeitgeber](https://www.kununu.com/de/stromdao)", der nach amerikanischem Vorbild das Leitbild von _Unternehmen sind für die Gesellschaft da_, verfolgt. Konkret bedeutet dies, dass jeder im Team mindestens bei einer Hilfsorganisation aktiv tätig ist und die Prämisse gilt: _Einsatzzeit ist Arbeitszeit._ Nachdem seit Anfang dieser Woche [meetgreen](https://meetgreen.de/)  nicht mehr verfügbar ist, bieten wir unser [Telefonkonferenzsystem](https://meet.corrently.cloud/) zur freien Nutzung an. 
+Die **STROM**DAO ist ein "[Ehrenamtsfreundlicher Arbeitgeber](https://www.kununu.com/de/stromdao)", der nach amerikanischem Vorbild das Leitbild von _Unternehmen sind für die Gesellschaft da_, verfolgt. Konkret bedeutet dies, dass jeder im Team mindestens bei einer Hilfsorganisation aktiv tätig ist und die Prämisse gilt: _Einsatzzeit ist Arbeitszeit._ Nachdem seit Anfang dieser Woche [meetgreen](https://meetgreen.de/)  nicht mehr verfügbar ist, bieten wir unser [Telefonkonferenzsystem](https://meet.corrently.cloud/) zur freien Nutzung an und helfen damit jedem, das #wirbleibendaheim etwas erträglicher zu machen.
 
 Jeder im Team hat in den letzten Tagen **200%** gegeben. 
 
