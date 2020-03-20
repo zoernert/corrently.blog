@@ -30,3 +30,8 @@ Jeder im Team hat in den letzten Tagen **200%** gegeben.
 Startups sind Schnellboote, die sich an Situationen anpassen können, aber es sind die Menschen dahinter, die es ermöglichen und die eine Extrameile für eine Idee gehen: Ein echtes **\#GrünstromErlebnis** zu schaffen. 
 
 Mit [Corrently](https://corrently.de/) haben wir ein tolles Produkt, welches man erklären kann, aber nicht muss. Letztendlich kann es auch nur ein Ökostromtarif sein, bei dem man weiß, dass man ein [mega Team](https://www.stromdao.de/ber-uns) unterstützt hat.
+
+
+
+**Update**\
+Die Startups der Republik vereinen sich. Unter dem Aufruf **\#SeiteAnSeite** existiert nun eine Online-Petition, die genau auf die Probleme eingeht. [Bitte zeichnen!](https://www.openpetition.de/petition/online/seiteanseite-soforthilfen-kredite-fuer-kleine-unternehmen-freiberufler-selbstaendige-startups)
