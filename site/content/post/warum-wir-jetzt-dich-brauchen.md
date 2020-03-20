@@ -27,6 +27,6 @@ Jeder im Team hat in den letzten Tagen **200%** gegeben.
 
 **Dafür Danke!** Und versprochen: Es sieht nicht so aus, als ob es in den kommenden Wochen besser wird. Vielleicht etwas weniger chaotisch, wenn wir uns in das _neue Normal_ eingelebt haben.
 
-Startups sind Schnellboote, die sich an Situationen anpassen können, aber es sind die Menschen dahinter, die es ermöglichen und die eine Extrameile für eine Idee gehen. 
+Startups sind Schnellboote, die sich an Situationen anpassen können, aber es sind die Menschen dahinter, die es ermöglichen und die eine Extrameile für eine Idee gehen: Ein echtes **\#GrünstromErlebnis** zu schaffen. 
 
 Mit [Corrently](https://corrently.de/) haben wir ein tolles Produkt, welches man erklären kann, aber nicht muss. Letztendlich kann es auch nur ein Ökostromtarif sein, bei dem man weiß, dass man ein [mega Team](https://www.stromdao.de/ber-uns) unterstützt hat.
