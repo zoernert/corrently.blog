@@ -18,10 +18,10 @@ Die **STROM**DAO ist ein "[Ehrenamtsfreundlicher Arbeitgeber](https://www.kununu
 
 Jeder im Team hat in den letzten Tagen **200%** gegeben. 
 
-* Niko, der die Ansprache in Mails komplett überarbeitet hat. 
+* Niko, der nicht nur in Textvorlagen seine Stärke als "Shaper" entdeckt.
 * Erick, der hinterher arbeiten darf, wenn Cheffe denkt, er könne mal schnell etwas selbst machen. 
 * Klaus, der ganz neue Geschäftsmodelle in einer Kolonie entdecken darf.
-* Manfred, der ein unglaubliches Netzwerk adressiert in kürzester Zeit.
+* Manfred, der in kürzester Zeit ein unglaubliches Netzwerk adressiert.
 * Rebekka, deren Organisationstalent den Elitestatus erreicht hat.  
 * Gregor, der sogar im Krankenhaus beim MRT noch Mails schreibt.
 
