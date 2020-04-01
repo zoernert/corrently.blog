@@ -11,7 +11,9 @@ Das Licht geht zumindest für uns aus im Coworking-Bereich und unser eigenes Bü
 
 Allerdings warten wir tatsächlich noch drauf, denn da wir uns aufgrund der aktuellen Lage nicht physisch sehen, ziehen wir auch noch nicht in Mannheim ein. Sondern wir befinden uns ganz artig alle im Home Office. 
 
-![Hier zumindest schonmal die Mannheimer Luft im Home Office. ](/img/rebekka-3.jpg)
+![](/img/rebekka-3.jpg)
+
+Hier zumindest schonmal die Mannheimer Luft im Home Office. 
 
 Aber, sobald der Umzug ansteht, lassen wir euch das wissen und natürlich virtuell dran teilhaben.
 
