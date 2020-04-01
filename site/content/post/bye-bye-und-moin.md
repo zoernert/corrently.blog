@@ -1,6 +1,6 @@
 ---
 title: 'Bye, bye und moin!'
-date: 2020-04-01T12:40:06.372Z
+date: 2020-04-01T07:41:06.372Z
 description: >-
   Wir sagen heute auf Wiedersehen Heidelberg und moin Mannheim. Moin, weil
   Rebekka als Südschwedin (Niedersachsen) das so möchte und Mannheim ja auf
