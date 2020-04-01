@@ -2,7 +2,7 @@
 title: '#stayathome'
 date: 2020-03-31T12:40:06.372Z
 description: >-
-  Das Gute an Home Office - man riskiert die Verschleppung von Viren. Das
+  Das Gute an Home Office - man riskiert nicht die Verschleppung von Viren. Das
   Schlechte an Home Office - man wird irgendwann komisch. 
 
   Nach nun über 15 Tagen schleichen sich die Stimmen im Kopf immer lauter an.
