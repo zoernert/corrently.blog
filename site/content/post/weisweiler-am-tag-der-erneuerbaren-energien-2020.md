@@ -14,4 +14,10 @@ Der [Energietag](https://www.energietag.de/) ist seit 1996 eine feste Institutio
 
 Die gute Nachricht kam am Energietag um 13:44 Uhr. Weisweiler Block E konnte wieder ans Netz gehen. In den Stunden zuvor war genügend Windkraft in der Region vorhanden, wodurch man den Kaltstart eines Braunkohlekraftwerks sicher mit der Kraft des Windes bewerkstelligen konnte.
 
+**Fakten des Beitrages:**
+
+* <https://transparency.entsoe.eu/> - Ungeplante Nichtverfügbarkeit Weisweiler
+* <https://de.wikipedia.org/wiki/Kraftwerk_Weisweiler> - Wikipedia Eintrag zum Kraftwerk Weisweiler
+* <https://www.energietag.de/> - Infos zum Energietag
+
 (Beitragsbild: Von [Arthur Konze - Eigenes Werk, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=73229890))
