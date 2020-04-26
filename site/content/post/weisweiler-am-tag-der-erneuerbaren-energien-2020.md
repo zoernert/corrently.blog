@@ -1,6 +1,6 @@
 ---
 title: Weisweiler am Tag der Erneuerbaren Energien 2020
-date: 2020-04-26T07:04:00.000Z
+date: 2020-04-25T07:04:00.000Z
 description: >-
   Wegen der Corona Pandemie musste der Energietag dieses Jahr leider ausfallen,
   dennoch beteiligte sich offenbar der Block E des Braunkohlekraftwerks
