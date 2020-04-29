@@ -6,7 +6,7 @@ description: >-
   Zertifikaten echauffiert...
 image: /img/cmbw-label.png
 ---
-... da kommen wir dann doch mit einem eigenen Label an. 
+... da kommen wir dann doch mit einem eigenen [Label](https://cloud-mall-bw.de/services/) an. 
 
 Hintergrund: Wir durften letztes Jahr an einem Praxispiloten im Rahmen von Cloud Mall BW mitmachen. Das lief so gut, dass die Partner dahinter ein Qualitätssiegel für den Servicekatalog erstellt haben
 
