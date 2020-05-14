@@ -1,5 +1,5 @@
 ---
-title: GKM Block 7 vor Stillegung - Wir sagen Danke!
+title: GKM Block 7 vor Stilllegung - Wir sagen Danke!
 date: 2020-05-14T15:19:21.485Z
 description: >-
   Die STROMDAO Geschäftsstelle liegt in Mannheim, weshalb wir auf dem Weg ins
