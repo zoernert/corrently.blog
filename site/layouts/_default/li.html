@@ -1,6 +1,11 @@
 <a href="{{ .Permalink }}" style="text-decoration:none;color:#000000">
-	 {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="rounded float-right img-thumbnail"/>{{ end }}
-	<h2 >{{ .Title }}</h2>
+	<div class="row">
+		<div class="col-6">
+			<h2 >{{ .Title }}</h2>
+		</div>
+	 	{{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="rounded float-right img-thumbnail col-4"/>{{ end }}
+	</div>
 	<p class="text-muted">Aktualisiert {{ .Date.Format "2.1.2006" }}</p>
 	<p>{{ .Description }}</p>
+	</div>
 </a>
