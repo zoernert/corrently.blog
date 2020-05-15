@@ -23,4 +23,4 @@ Nennt die RWE gegenüber den Medienvertretern das Vorgehen und führt an
 
 **Euer,**
 
- **_Correntlianer Thorsten_**
+ _**Correntlyaner Thorsten**_
