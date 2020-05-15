@@ -1,22 +1,26 @@
 {{ define "main" }}
 <div class="container" style="margin-top: 25px;margin-bottom: 50px;">
 <section>
-   <div class="card" style="margin-top: 15px;margin-bottom: 15px;">
-		<div class="card-header">
-			<h3 class="d-lg-flex mr-auto justify-content-lg-start justify-content-xl-start" style="color: rgb(0,0,0);font-family: 'DIN Alternate Bold';padding-top: 19px;">
-					<span style="color: rgb(59,111,46);font-family: caviar_dreamsbold;">{{.Title}}</span>
-			</h3>
-       <p>{{ .ReadingTime }} Minuten</p>
-		</div>
-		<div class="card-body">
-      <p>{{ .Description }}</p>
-      {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
-      {{ .Content }}
-		</div>
-   <div class="card-footer">
-			<a href="/post" class="btn raise">mehr</a>
-		</div>
-	</div>
+  <div class="card flex-row flex-wrap" style="margin-top: 15px;margin-bottom: 15px;">
+       <div class="card-header border-0">
+          {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
+       </div>
+       <div class="card-block px-2">
+         <h3 class="d-lg-flex mr-auto justify-content-lg-start justify-content-xl-start" style="color: rgb(0,0,0);font-family: 'DIN Alternate Bold';padding-top: 19px;">
+             <span style="color: rgb(59,111,46);font-family: caviar_dreamsbold;">{{.Title}}</span>
+         </h3>
+           <p class="card-text">
+                {{ .Description }}
+           </p>
+       </div>
+       <div class="w-100"></div>
+       <div class="card-body">
+          {{ .Content }}
+       </div>
+       <div class="card-footer w-100 text-muted">
+           <p style="align:center"><a href="/post" class="btn raise">Übersicht</a></p>
+       </div>
+   </div>
 </section>
 </div>
 {{ end }}
