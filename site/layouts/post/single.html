@@ -7,18 +7,14 @@
           <h3 class="d-lg-flex mr-auto justify-content-lg-start justify-content-xl-start" style="color: rgb(0,0,0);font-family: 'DIN Alternate Bold';padding-top: 19px;">
               <span style="color: rgb(59,111,46);font-family: caviar_dreamsbold;">{{.Title}}</span>
           </h3>
-       </div>
-       <div class="card-block px-2">
-           <p class="card-text">
-                {{ .Description }}
-           </p>
+          {{ .Description }}
        </div>
        <div class="w-100"></div>
        <div class="card-body">
           {{ .Content }}
        </div>
        <div class="card-footer w-100 text-muted">
-           <p style="align:center"><a href="/post" class="btn raise">Übersicht</a></p>
+           <p style="text-align:center"><a href="/post" class="btn btn-warning raise">Übersicht</a></p>
        </div>
    </div>
 </section>
