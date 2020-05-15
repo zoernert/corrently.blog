@@ -2,7 +2,7 @@
 title: RWE wegen Kohlepolitik abgestraft
 date: 2020-05-14T14:26:43.389Z
 description: >-
-  Der weltweit größte Staatsfonds, der Norwegischer Ölfonds, trennt sich als von
+  Der weltweit größte Staatsfonds, der Norwegischer Ölfonds, trennt sich von
   seinen Anteilen am Energiekonzern aus Essen. Grund ist die Stromproduktion aus
   Kohle und die damit verbundene schlechte Klimabilanz. Das Jahr 2040 war für
   eine CO2 neutrale Stromerzeugung scheinbar für die Skandinavier zu spät,
@@ -23,4 +23,4 @@ Nennt die RWE gegenüber den Medienvertretern das Vorgehen und führt an
 
 **Euer,**
 
- **_Correntlianer Thorsten_**
+ _**Correntlyaner Thorsten**_
