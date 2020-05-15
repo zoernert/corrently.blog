@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
-
-{{ partial "blog" . }}
-
+<div class="container" style="margin-top: 25px;margin-bottom: 50px;">
+  {{ partial "blog" . }}
+</div>
 {{ end }}
