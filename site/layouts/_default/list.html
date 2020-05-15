@@ -1,26 +1,26 @@
 {{ define "main" }}
 
 {{ partial "jumbotron" (dict "imageUrl" "/img/header_invest.png" "title" "Zukünftiges") }}
-
-<section>
-   <div class="card" style="margin-top: 15px;margin-bottom: 15px;">
-		<div class="card-header">
-			<h3 class="d-lg-flex mr-auto justify-content-lg-start justify-content-xl-start" style="color: rgb(0,0,0);font-family: 'DIN Alternate Bold';padding-top: 19px;">
-					<span style="color: rgb(59,111,46);font-family: caviar_dreamsbold;">Artikel</span>
-					<span style="font-family: caviar_dreamsbold;color: rgb(255,184,0);">Übersicht</span>
-			</h3>
-		</div>
-		<div class="card-body">
-      {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
-          <div class="w-50-ns ph1-ns flex">
-            {{ .Render "li"}}
-          </div>
-      {{ end }}
-		</div>
-   <div class="card-footer">
-			  {{ partial "pagination" . }}
-		</div>
-	</div>
-</section>
-
+<div class="container" style="margin-top: 25px;margin-bottom: 50px;">
+  <section>
+     <div class="card" style="margin-top: 15px;margin-bottom: 15px;">
+  		<div class="card-header">
+  			<h3 class="d-lg-flex mr-auto justify-content-lg-start justify-content-xl-start" style="color: rgb(0,0,0);font-family: 'DIN Alternate Bold';padding-top: 19px;">
+  					<span style="color: rgb(59,111,46);font-family: caviar_dreamsbold;">Artikel</span>
+  					<span style="font-family: caviar_dreamsbold;color: rgb(255,184,0);">Übersicht</span>
+  			</h3>
+  		</div>
+  		<div class="card-body">
+        {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
+            <div class="w-50-ns ph1-ns flex">
+              {{ .Render "li"}}
+            </div>
+        {{ end }}
+  		</div>
+     <div class="card-footer">
+  			  {{ partial "pagination" . }}
+  		</div>
+  	</div>
+  </section>
+</div>
 {{end}}
