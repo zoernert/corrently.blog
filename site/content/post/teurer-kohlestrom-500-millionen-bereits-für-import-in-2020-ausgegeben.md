@@ -1,5 +1,5 @@
 ---
-title: Teurer Kohlestrom - 500 Millionen bereits für Import in 2020 ausgegeben
+title: Teurer Kohlestrom - 500 Millionen Euro bereits für Import in 2020 ausgegeben
 date: 2020-05-21T22:43:41.814Z
 description: >-
   In Deutschland rechnet sich der Abbau von Steinkohle nicht mehr, weshalb
