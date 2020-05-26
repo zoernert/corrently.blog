@@ -17,6 +17,8 @@ Stromdao Gründer Thorsten Zoerner  erklärt zum ersten intelligenten Grünstrom
 
 Hinter Corrently steht modernste Technik, Big Data, IT und Blockchain. Jeder Kunde weiß, wann i[n seiner Region wie viel Ökostrom erzeugt wird](https://www.gruenstromindex.de/) und kann mit angepasstem Verbrauch aktiv das Klima schützen. Corrently kennt alle erneuerbaren Energieanlagen in Deutschland mit genauem Standort, verknüpft sie mit der Wettervorhersage und erzeugt so den Grünstromindex. Der zeigt nach Postleitzahl die regionale Wind- und Sonnenstromerzeugung an, sodass Corrently Verbrauch und Erzeugung so weit als möglich in Übereinstimmung bringt und so aktiv zum Klimaschutz beiträgt.
 
+![Corrently Ökostrom in Mauer: Wir machen Dich grün](/img/mauer_plakat_collage_b_600px.jpg "Corrently Ökostrom in Mauer: Wir machen Dich grün")
+
 Weil Corrently ein sehr [regionales Angebot](https://www.corrently.de/mauer.html) ist, will sich Corrently auch regional präsentieren und die erste Kampagne startet in der Gemeinde Mauer, dem Unternehmenssitz der **STROM**DAO GmbH und Geburtsort von Corrently. Mit einer großen Plakataktion werden die Bewohner von Mauer mit dem Motto „Wir machen Dich grün, mit [regionalem Ökostrom](https://www.corrently.de/index.html)“ als erste direkt auf den intelligenten Klimaschutztarif angesprochen.
 
 Da Corrently aber in ganz Deutschland funktioniert wird die [**STROM**DAO GmbH](https://www.stromdao.de/) nach der Aktion in Mauer auch in anderen Gemeinden Deutschlands über ihren Ökostromtarif mit jeweils regional zugeschnittenen Kampagnen informieren. 
