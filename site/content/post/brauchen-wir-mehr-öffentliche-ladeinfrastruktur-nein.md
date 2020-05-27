@@ -1,6 +1,6 @@
 ---
 title: Brauchen wir mehr öffentliche Ladeinfrastruktur? Nein!
-date: 2020-05-28T12:36:59.324Z
+date: 2020-05-27T23:17:59.324Z
 description: >-
   (Thorsten) Die Geschichte der E-Mobilität und die Beurteilung dessen, was
   benötigt wird, wird gerade in Deutschland von vielen geschrieben, aber nicht
