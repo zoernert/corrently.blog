@@ -16,23 +16,17 @@ Und weil Statistiker präzise Menschen sind teilen sie uns noch mit, dass den h�
 
 Mit 34,9 % der insgesamt eingespeisten Strommenge war die Windkraft erstmals der wichtigste Energieträger für die Stromerzeugung. Die Einspeisung aus konventionellen Energieträgern sank um 21,9 %. Insbesondere der Kohlestrom-Anteil war mit -33,4 % deutlich niedriger als im 1. Quartal 2019.
 
-
-
 ## Geringerer Strombedarf 2020
 
 Die insgesamt eingespeiste Strommenge, die sich am bestehenden Strombedarf orientiert, ging im 1. Quartal 2020 gegenüber dem 1. Quartal 2019 um 6,6 % auf 141,2 Milliarden Kilowattstunden zurück. Dieser Rückgang liegt im Rahmen üblicher Schwankungen. Ein eindeutiger Einfluss der Corona-Krise auf die eingespeiste Strommenge konnten die Wiesbadener im 1. Quartal 2020 nicht erkennen.
-
-
 
 ## Fast 50 % Grünstrom regional mit Lieferstrecken unter 15 Kilometern
 
 Die **STROM**DAO GmbH wollte nach dieser interessanten Information wissen, wie sich im ersten Quartal der Bezug von Strom und die Lieferstrecken zusammensetzten, denn lange Lieferstrecken bedeuten Verluste und diese Verluste verschlechtern die CO2-Bilanz des grünen Stroms. Für das gesamte erste Quartal wurden durchschnittlich 49,6 % regionaler Ökostrom verbraucht. Die Daten basieren auf den Lastflüssen des Europäischen Verbundnetzes (ENTSOe). Den Spitzenwert erreichten regionale EE am 23.02. mit 64,31 %, den schlechtesten Wert im Strom-Mix am 24.01. mit 13,52 %. Die Prozentwerte sind jeweils der Anteil beim Bezug.
 
-![Regionaler Ökostrom im ersten Quartal 2020](/img/vergleich-regionaler-grünstrombezug-und-graustrombezug-mw.png "Regionaler Ökostrom im ersten Quartal 2020")
+![Regionaler Ökostrom im ersten Quartal 2020](/img/vergleich-regionaler-grünstrombezug-und-graustrombezug-mw-grau.jpg "Regionaler Ökostrom im ersten Quartal 2020")
 
-![Absoluter Anteil von regionalem Ökostrom in Deutschland im ersten Quartal 2020](/img/vergleich-regionaler-grünstrombezug-und-graustrombezug-prozent.png "Absoluter Anteil von regionalem Ökostrom in Deutschland im ersten Quartal 2020")
-
-
+![Absoluter Anteil von regionalem Ökostrom in Deutschland im ersten Quartal 2020](/img/vergleich-regionaler-grünstrombezug-und-graustrombezug-prozent_grau.jpg "Absoluter Anteil von regionalem Ökostrom in Deutschland im ersten Quartal 2020")
 
 ## Regionale Grünstromerzeugung sichtbar für Alle
 
