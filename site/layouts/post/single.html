@@ -15,6 +15,22 @@
        <div class="card-body">
          <p class="text-muted">Aktualisiert {{ .Date.Format "2.1.2006" }}</p>
           {{ .Content }}
+         <hr/>
+         <div id="disqus_thread"></div>
+<script>
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://corrently.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
        </div>
        <div class="card-footer w-100 text-muted">
            <p style="text-align:center"><a href="/post" class="btn btn-warning raise">Übersicht</a></p>
