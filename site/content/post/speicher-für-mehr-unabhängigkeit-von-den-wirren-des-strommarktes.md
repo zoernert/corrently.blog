@@ -26,8 +26,8 @@ Corrently liefert mit IT-Unterstützung,[ Blockchain](https://www.corrently.de/h
 
 Bei Corrently privat und Gewerbe erhalten Betreiberinnen und Betreiber von Stromspeichern für regionalen Grünstrombezug Bonuspunkte, die sie in Anteile an Stromdao Photovoltaikanlagen tauschen können. Damit entwickeln Corrently Kunden eine Eigenversorgung und senken im Laufe der Zeit ihre Stromrechnung auch beim Reststrombezug.
 
-
-
-## Für Photovoltaik die ab 2021 aus der EEG Förderung fallen 
+## Für Photovoltaik die ab 2021 aus der EEG Förderung fallen
 
 Ab Mitte des Jahres können sich Betreiber von Erneuerbaren Energieanlagen deren EEG-Förderung ausläuft bei Stromdao zur Direktvermarktung registrieren, unabhängig davon, ob sie einen Stromspeicher installieren oder nicht. Stromdao bietet diesen [Service für Erneuerbare Energieanlagen ab 1 Kilowatt-peak](https://www.corrently.de/transparenz/wind-und-solarstromabnahme/) Leistung an.
+
+_(Bild zum Beitrag mit freundlicher Genehmigung:_ [_Stefan Feilmeier, FENCON GmbH_](https://www.fenecon.de/)_)_
