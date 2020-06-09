@@ -42,6 +42,6 @@ Erst vor einigen Tagen war das [Kraftwerk Niederaußem mit einer Störung vom Ne
 
 Von der Panne beim Kraftwerk BoA ist bekannt, dass damals die Netzfrequenz in ganz Europa geschwankt hat. Ein Blackout auf dem ganzen Kontinent wurde durch den Übertragungsnetzbetreiber Amprion verhindert.
 
-In einer Welt, in der nichts verbrannt werden muss, um Strom zu erzeugen, sind die einzelnen Einheiten und Ausfälle deutlich kleiner und planbarer.  Zwar gehen auch Photovoltaik- oder Windkraftanlagen bei fehlender Wartung irgndwann defekt. Die Größe einer einzelnen Anlage ist jedoch so gering, dass die Netzfrequenz nicht im messbaren Bereich davon beeinflusst wird.
+In einer Welt, in der nichts verbrannt werden muss, um Strom zu erzeugen, sind die einzelnen Einheiten und Ausfälle deutlich kleiner und planbarer.  Zwar gehen auch Photovoltaik- oder Windkraftanlagen bei fehlender Wartung irgendwann defekt. Die Größe einer einzelnen Anlage ist jedoch so gering, dass die Netzfrequenz nicht im messbaren Bereich davon beeinflusst wird.
 
 **_Den Podcast_** [**_"Mal Angenommen" gibt es in der ARD Mediathek/Tagesschau_**](https://www.tagesschau.de/multimedia/podcasts/mal-angenommen-101.html) **_oder überall, wo es Podcasts gibt._**
