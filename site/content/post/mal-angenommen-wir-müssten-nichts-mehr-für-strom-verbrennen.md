@@ -18,7 +18,7 @@ Tatsächlich ist dieser Zustand bereits zur Hälfte geschafft. Im [heutigen Stro
 
 Eine Schlagzeile in der Tagesschau könnte dann wie folgt aussehen:
 
-> Die Betreiber von Wasserkraftwerken meldeten heute, dass wegen des sonnigen Winters ihr Stromabsätze deutlich zurückgegangen sind.  Sie fordern eine neue Umlage einzurichten, um die Ausfälle aufzufangen. Protest kommt von den Betreibern der Pumpspeicherkraftwerke.
+> _Die Betreiber von Wasserkraftwerken meldeten heute, dass wegen des sonnigen Winters ihr Stromabsätze deutlich zurückgegangen sind.  Sie fordern eine neue Umlage einzurichten, um die Ausfälle aufzufangen. Protest kommt von den Betreibern der Pumpspeicherkraftwerke._
 
 Das größte Problem bei diesem Gedankenexperiment ist, dass der Wert von Strom nach "Arbeit" also ein Strompreis je Kilo-Watt-Stunde gedacht wird. Der heutige Markt und seien Mechanismen müssten vollständig umgedacht werden.
 
@@ -30,7 +30,7 @@ In der gesamten politisch aufgeheizten Diskussion rund um die EEG-Umlage, erkenn
 
 Kritische Infrastruktur zu finanzieren und am Laufen zu halten, ist nicht einfach. Eine Nachricht in der Tagesschau der Zukunft könnte daher sich so anhören:
 
-> Fehlende Investitionen in den Erhalt und Neubau neuer Anlagen zur Stromerzeugung sorgen in immer mehr Regionen in Deutschland für Probleme. Die Bundesnetzagentur meldet, dass die Investionen im Jahresvergleich um 30% zurückgegangen sind, wodurch es auch zu Stromausfällen kommen kann.
+> _Fehlende Investitionen in den Erhalt und Neubau neuer Anlagen zur Stromerzeugung sorgen in immer mehr Regionen in Deutschland für Probleme. Die Bundesnetzagentur meldet, dass die Investionen im Jahresvergleich um 30% zurückgegangen sind, wodurch es auch zu Stromausfällen kommen kann._
 
 Das Problem bei Infrastrukturkosten ist, dass man zum Beispiel in einer Krise schieben kann. Eine Brücke stürzt auch nicht ein, wenn man um ein paar Monate eine Sanierung verschiebt. Wird jedoch dauerhaft nicht in eine Sanierung investiert, dann kommt es zu [Zuständen wie bei der Leverkusener Rheinbrücke](https://www.deutschlandfunkkultur.de/bauskandal-in-nrw-leverkusener-rheinbruecke-verzoegert-sich.1001.de.html?dram:article_id=476983).
 
@@ -44,4 +44,4 @@ Von der Panne beim Kraftwerk BoA ist bekannt, dass damals die Netzfrequenz in ga
 
 In einer Welt, in der nichts verbrannt werden muss, um Strom zu erzeugen, sind die einzelnen Einheiten und Ausfälle deutlich kleiner und planbarer.  Zwar gehen auch Photovoltaik- oder Windkraftanlagen bei fehlender Wartung irgndwann defekt. Die Größe einer einzelnen Anlage ist jedoch so gering, dass die Netzfrequenz nicht im messbaren Bereich davon beeinflusst wird.
 
-_**Den Podcast**_ [_**"Mal Angenommen" gibt es in der ARD Mediathek/Tagesschau**_](https://www.tagesschau.de/multimedia/podcasts/mal-angenommen-101.html) _**oder überall, wo es Podcasts gibt.**_
+**_Den Podcast_** [**_"Mal Angenommen" gibt es in der ARD Mediathek/Tagesschau_**](https://www.tagesschau.de/multimedia/podcasts/mal-angenommen-101.html) **_oder überall, wo es Podcasts gibt._**
