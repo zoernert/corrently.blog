@@ -20,7 +20,7 @@ Eine Schlagzeile in der Tagesschau könnte dann wie folgt aussehen:
 
 > _Die Betreiber von Wasserkraftwerken meldeten heute, dass wegen des sonnigen Winters ihr Stromabsätze deutlich zurückgegangen sind.  Sie fordern eine neue Umlage einzurichten, um die Ausfälle aufzufangen. Protest kommt von den Betreibern der Pumpspeicherkraftwerke._
 
-Das größte Problem bei diesem Gedankenexperiment ist, dass der Wert von Strom nach "Arbeit" also ein Strompreis je Kilo-Watt-Stunde gedacht wird. Der heutige Markt und seien Mechanismen müssten vollständig umgedacht werden.
+Das größte Problem bei diesem Gedankenexperiment ist, dass der Wert von Strom nach "Arbeit" also ein Strompreis je Kilo-Watt-Stunde gedacht wird. Der heutige Markt und seine Mechanismen müssten vollständig umgedacht werden.
 
 ## Infrastrukturkosten anstelle von Brennstoffkosten
 
