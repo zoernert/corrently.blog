@@ -2,12 +2,12 @@
 title: 'Mal angenommen, wir müssten nichts mehr für Strom verbrennen.'
 date: 2020-06-09T22:22:57.531Z
 description: >-
-  Die Tagesschau hat ihren Zukunftspodcast "Mal angenommen", welcher alle zwei
-  Wochen ein Gedankenexperiment vornimmt, wie die Nachrichten aussehen würden,
-  wenn man eine bestimmte Entwicklung weiterdenkt. Angelehnt an dieses Format,
-  wollen wir mal einen Blick darauf werfen, wie die Nachrichten sich verändern
-  würden, wenn der Strom in der Zukunft ohne Brennstoffkosten erzeugt würde. Die
-  Energiewende abgeschlossen ist. 
+  Die Tagesschau hat ihren Zukunftspodcast "Mal angenommen", welcher jede Woche
+  am Donnerstag ein Gedankenexperiment vornimmt, wie die Nachrichten aussehen
+  würden, wenn man eine bestimmte Entwicklung weiterdenkt. Angelehnt an dieses
+  Format, wollen wir mal einen Blick darauf werfen, wie die Nachrichten sich
+  verändern würden, wenn der Strom in der Zukunft ohne Brennstoffkosten erzeugt
+  würde. Die Energiewende abgeschlossen ist. 
 image: /img/mal_angenommen.png
 ---
 Feuer vernichtet immer etwas, so auch das Feuer, welches heute in Kraftwerken zur Stromerzeugung brennt. Dies sind Rohstoffe, dann Geld für Brennstoffe und nicht zuletzt das Klima. 
