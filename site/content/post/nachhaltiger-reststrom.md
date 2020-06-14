@@ -16,7 +16,7 @@ Die Ansprüche und Ziele, die beim Aufbau der eigenen Erzeugungsanlage verfolgt 
 
 Wenn Correntlyaner einen [Stromtarif](https://www.corrently.de/tarifrechner.html) rein für den Bezug von Reststrom nutzen, dann müssen alle Komponenten zusammenpassen für eine individuelle Lösung. Für den Haushalt mit und ohne Speicher/Wärmepumpe/E-Auto genauso wie für einen voll automatisierten Haushalt mit modernem Energiemanagement und Optimierung.
 
-Dank unserer [Mitgliedschaft bei der OpenEMS](https://corrently.blog/post/stromdao-wird-gr%C3%BCndungsmitglied-der-openems-foundation/)  kann mit Corrently nahezu jede Optimierung, die bereits vorhanden ist, weiter genutzt werden. So kann die Wärmepumpe, ein Heizstab oder die Wallbox nicht nur nach dem im Haus vorhandenen Energieflüssen optimiert werden, sondern auch nach dem [GrünstromIndex](https://www.gruensromindex.de/), der im Corrently Ökosystem ein Indikator und Preissignal für regionalen Ökostrom ist.
+Dank unserer [Mitgliedschaft bei der OpenEMS](https://corrently.blog/post/stromdao-wird-gr%C3%BCndungsmitglied-der-openems-foundation/)  kann mit Corrently nahezu jede Optimierung, die bereits vorhanden ist, weiter genutzt werden. So kann die Wärmepumpe, ein Heizstab oder die Wallbox nicht nur nach dem im Haus vorhandenen Energieflüssen optimiert werden, sondern auch nach dem [GrünstromIndex](https://www.gruenstromindex.de/), der im Corrently Ökosystem ein Indikator und Preissignal für regionalen Ökostrom ist.
 
 In der Praxis geschieht die Aufnahme der individuellen Ausgangssituation meist per Telefon oder [im Chat](https://tawk.to/corrently). 
 
