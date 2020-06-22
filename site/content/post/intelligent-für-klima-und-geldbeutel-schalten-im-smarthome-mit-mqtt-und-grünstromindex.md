@@ -15,7 +15,7 @@ image: /img/intelligent_schalten_mit_gsi.jpg
 ---
 ## Herausforderungen
 
-Es existieren eine Vielzahl von verschiedenen Systemen und Protokolle, die mit Energiedaten im heimischen Umfeld arbeiten. Eine Zusammenführung dieser Daten ist meist Aufgabe von einem EnergieManagementSystem (EMS) wie [OpenEMS](https://openems.io/), jedoch sind auch Produkte wie HomeManager, OpenHUB, Node-Red, Smappee, Alexa, Homematic im Prinzip ein EMS. 
+Es existieren eine Vielzahl von verschiedenen Systemen und Protokolle, die mit Energiedaten im heimischen Umfeld arbeiten. Eine Zusammenführung dieser Daten ist meist Aufgabe von einem EnergieManagementSystem (EMS) wie [OpenEMS](https://openems.io/), jedoch sind auch Produkte wie HomeManager, OpenHAB, Node-Red, Smappee, Alexa, Homematic im Prinzip ein EMS. 
 
 Zum besseren Verständnis dieses Beitrags sollen unter EMS daher alle Systeme zusammengefasst werden, welche basierend auf Daten/Zuständen/Schalter eine Aktion ausführen können. Die meisten dieser Systeme erlauben eine Kommunikation mit anderen Geräten über das [MQTT Protokoll](https://de.wikipedia.org/wiki/MQTT) zum Nachrichtenaustausch. 
 
