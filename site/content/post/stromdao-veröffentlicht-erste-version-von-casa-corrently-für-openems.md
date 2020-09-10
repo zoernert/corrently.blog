@@ -8,7 +8,7 @@ description: >-
   Mausklick kann man nun sehen, wie Casa Corrently mit OpenEMS zusammenarbeitet.
 image: /img/openems_logo.png
 ---
-Im August hatte die **STROM**DAO ihr neues Zugpferd [Casa Corrently](https://stromdao.de/casa) vorgestellt und ist damit neue Wege bei einer ganzheitlichen Betrachtung der Stromkosten und des Strompreises geworden. Casa Corrently beantwortet in Echtzeit und stets aktuell die Frage: _"Was kostet mich mein Strom?"_
+Im August hatte die **STROM**DAO ihr neues Zugpferd [Casa Corrently](https://stromdao.de/casa) vorgestellt und ist damit neue Wege bei einer ganzheitlichen Betrachtung der Stromkosten und des Strompreises gegangen. Casa Corrently beantwortet in Echtzeit und stets aktuell die Frage: _"Was kostet mich mein Strom?"_
 
 Aktuell [verzeichnet NPMJS](https://www.npmjs.com/package/casa-corrently) mehr als 1000 Downloads des Basispaketes pro Woche, was zumindest für uns ein Indiz ist, dass wir mit der Entwicklung auf dem richtigen Weg sind und nicht länger mit der Veröffentlichung einer an OpenEMS gekoppelten Version zu warten.
 
