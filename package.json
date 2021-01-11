@@ -32,7 +32,7 @@
 		"exports-loader": "^0.7.0",
 		"file-loader": "^2.0.0",
 		"gotrue-js": "^0.9.1",
-		"gulp": "^3.9.1",
+		"gulp": "^4.0.0",
 		"gulp-babel": "^7.0.0",
 		"gulp-postcss": "^8.0.0",
 		"gulp-util": "^3.0.7",
@@ -54,5 +54,9 @@
 		"gulp-svgmin": "^1.2.3",
 		"gulp-svgstore": "^6.1.0",
 		"svg-sprite-loader": "^3.0.0"
+	},
+	"preinstall": "npx npm-force-resolutions",
+	"resolutions": {
+		"graceful-fs": "^4.2.4"
 	}
 }
