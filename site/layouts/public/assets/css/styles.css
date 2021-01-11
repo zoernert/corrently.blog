@@ -1,0 +1,14 @@
+.input-group-prepend {
+  min-width: 200px;
+  text-align: left;
+}
+
+.input-group-text {
+  width: 100%;
+}
+
+.input-group {
+  margin-top: 5px;
+  maring-bottom: 5px;
+}
+
